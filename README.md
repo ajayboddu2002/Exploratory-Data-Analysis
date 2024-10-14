@@ -27,6 +27,7 @@ Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 IDE: Jupyter Notebook
 Version Control: Git and GitHub
+
 Project List
 Project 1: IPL Auction 2023 Analysis
 
